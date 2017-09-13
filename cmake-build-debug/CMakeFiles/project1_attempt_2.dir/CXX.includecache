@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/saad/CLionProjects/project1 attempt 2/Edge.cpp
+cstdlib
+-
+iostream
+-
+Edge.h
+/cygdrive/c/Users/saad/CLionProjects/project1 attempt 2/Edge.h
+LLIST.h
+/cygdrive/c/Users/saad/CLionProjects/project1 attempt 2/LLIST.h
+
+/cygdrive/c/Users/saad/CLionProjects/project1 attempt 2/Edge.h
+LLIST.h
+/cygdrive/c/Users/saad/CLionProjects/project1 attempt 2/LLIST.h
+string
+-
+
+/cygdrive/c/Users/saad/CLionProjects/project1 attempt 2/LLIST.cpp
+cstdlib
+-
+iostream
+-
+LLIST.h
+/cygdrive/c/Users/saad/CLionProjects/project1 attempt 2/LLIST.h
+
+/cygdrive/c/Users/saad/CLionProjects/project1 attempt 2/LLIST.h
+
+/cygdrive/c/Users/saad/CLionProjects/project1 attempt 2/main.cpp
+cstdlib
+-
+iostream
+-
+string
+-
+LLIST.h
+/cygdrive/c/Users/saad/CLionProjects/project1 attempt 2/LLIST.h
+Edge.h
+/cygdrive/c/Users/saad/CLionProjects/project1 attempt 2/Edge.h
+

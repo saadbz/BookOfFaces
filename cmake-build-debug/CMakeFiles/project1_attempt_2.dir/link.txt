@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/project1_attempt_2.dir/main.cpp.o CMakeFiles/project1_attempt_2.dir/LLIST.cpp.o CMakeFiles/project1_attempt_2.dir/Edge.cpp.o  -o project1_attempt_2.exe -Wl,--out-implib,libproject1_attempt_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
